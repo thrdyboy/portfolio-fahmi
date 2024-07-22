@@ -1,4 +1,4 @@
-import img from '..assets/Background-photo.jpg'
+import img from '../assets/Background-photo.jpg'
 function LandingPage() {
   return (
     <>
