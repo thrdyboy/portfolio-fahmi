@@ -1,3 +1,4 @@
+import img from '..assets/Background-photo.jpg'
 function LandingPage() {
   return (
     <>
@@ -123,7 +124,7 @@ function LandingPage() {
           <div className="w-[493px] h-[493px] left-[13px] top-0 absolute">
             <img
               className="w-[493px] h-[532px] left-0 top-0 absolute rounded-s-full"
-              src='./src/assets/Background-photo.jpg'
+              src={img}
             />
           </div>
         </div>
